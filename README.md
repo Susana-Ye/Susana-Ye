@@ -5,9 +5,9 @@
 - <b>Python</b>
   - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
 - <b>C</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [N/A]
 - <b>C++</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N/A]
 
 <h2>📄 Certifications</h2>
 
