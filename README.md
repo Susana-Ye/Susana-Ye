@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Mario Programming Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
 - <b>C</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>C++</b>
