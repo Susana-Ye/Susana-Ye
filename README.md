@@ -6,6 +6,7 @@
   - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
 - <b>C</b>
   - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
+  - [Multithreaded Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
 - <b>C++</b>
   - [N/A]
 
