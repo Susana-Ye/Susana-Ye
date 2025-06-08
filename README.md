@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
 - <b>C</b>
-  - [N/A]
+  - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
 - <b>C++</b>
   - [N/A]
 
