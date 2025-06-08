@@ -1,4 +1,15 @@
-<h1>Hi, I'm Susana! <br/><a href="https://github.com/Susana-Ye">Programmer</a>, <a href="https://www.linkedin.com/in/susana-ye-zhan-655a28240">CS Student</a>, <a href="https://www.youtube.com/@susana_ye">YouTuber</a></h1>
+<h1>
+Hi, I'm Susana! 
+<br/>
+<a href="https://github.com/Susana-Ye">Programmer</a>, 
+<a href="https://www.linkedin.com/in/susana-ye-zhan-655a28240">CS Student</a>, 
+<a href="https://www.youtube.com/@susana_ye">YouTuber</a>
+</h1>
+
+I'm a dual-degree student in Computer Engineering and Business Administration, passionate about learning through hands-on challenges.
+With a global mindset and creative curiosity, I enjoy working on diverse projects that combine technology, strategy, and creativity.
+
+I'm excited to continue exploring the academic and professional world — one commit at a time.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
