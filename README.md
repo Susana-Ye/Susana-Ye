@@ -24,11 +24,6 @@ I'm excited to continue exploring the academic and professional world — one co
 
 - [Entrepreneurial Skills Pass](https://drive.google.com/file/d/1rLJYR43ndE62oZtjNGPFNJuOOVbUjbPR/view?usp=sharing)
 
-  
-<h2>📺 Popular YouTube Videos</h2>
-
-- [5 tips to pass your first year of university](https://youtu.be/s9DJnbUPFn4?si=wScm7k-f419zxFFc)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SusanaYe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
