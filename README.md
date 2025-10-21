@@ -30,7 +30,6 @@ I'm excited to continue exploring the academic and professional world — one co
 [<img align="left" alt="SusanaYe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SusanaYe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/@susana_ye
 [instagram]: https://www.instagram.com/susanayyz
 [linkedin]: https://www.linkedin.com/in/susana-ye-zhan-655a28240
 
