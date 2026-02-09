@@ -14,13 +14,18 @@ I'm excited to continue exploring the academic and professional world — one co
 
 - <b>Object-Oriented Game Development | Python</b>
   - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade) — Arcade-style platform game with multi-level progression, enemy behavior, collision detection, animations, and real-time interaction handling, designed using a modular object-oriented architecture.
-- <b>C</b>
-  - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
-  - [Multithreaded Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
 <!--
 - <b>C++</b>
   - [N/A]
 -->
+
+<h2>⚙️ Systems Programming:</h2>
+
+- <b>Multithreading & Concurrency | C </b>
+  - [Production Line Simulator](https://github.com/Susana-Ye/FactoryManager) — Multithreaded production line simulator developed for Linux, modeling a factory with multiple producer–consumer pipelines coordinated through POSIX threads. The project focuses on synchronization, concurrency control, and inter-thread communication using mutexes, condition variables, semaphores, and shared circular buffers.
+- <b>Linux Systems Programming | C</b>
+  - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter) – Shell script interpreter implemented in C, executing script files via POSIX system calls and supporting process management, piping, I/O redirection, and background execution. Includes a custom external command (mygrep) mimicking core grep functionality.
+
  
 <h2>📊 Data Analysis & Machine Learning Projects:</h2>
 
