@@ -17,8 +17,10 @@ I'm excited to continue exploring the academic and professional world — one co
 - <b>C</b>
   - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
   - [Multithreaded Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
+<!--
 - <b>C++</b>
   - [N/A]
+-->
  
 <h2>📊 Data Analysis & Machine Learning Projects:</h2>
 
