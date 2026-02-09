@@ -21,10 +21,15 @@ I'm excited to continue exploring the academic and professional world — one co
   - [N/A]
  
 <h2>📊 Data Analysis & Machine Learning Projects:</h2>
+
 - <b>PySpark | Big Data Analytics</b>
-  - [Large-Scale Stock Analysis with PySpark](https://github.com/Susana-Ye/MarioBrosArcade)
-
-
+  - [Large-Scale Stock Analysis with PySpark](https://github.com/Susana-Ye/StockAnalysisPySpark)
+<!--
+  - <b>Machine Learning | Scikit-learn</b>
+    - [Predictive Model for Customer Churn](link) - Description...
+  - <b>Deep Learning | TensorFlow</b>
+    - [Image Classification with CNN](link) - Description...
+-->
 <h2>📄 Certifications</h2>
 
 - [Entrepreneurial Skills Pass](https://drive.google.com/file/d/1rLJYR43ndE62oZtjNGPFNJuOOVbUjbPR/view?usp=sharing)
