@@ -12,8 +12,8 @@ I'm excited to continue exploring the academic and professional world — one co
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-  - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
+- <b>Object-Oriented Game Development | Python</b>
+  - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade) — Arcade-style platform game with multi-level progression, enemy behavior, collision detection, animations, and real-time interaction handling, designed using a modular object-oriented architecture.
 - <b>C</b>
   - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
   - [Multithreaded Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
