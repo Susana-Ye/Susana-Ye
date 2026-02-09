@@ -23,7 +23,9 @@ I'm excited to continue exploring the academic and professional world — one co
 <h2>📊 Data Analysis & Machine Learning Projects:</h2>
 
 - <b>PySpark | Big Data Analytics</b>
-  - [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis)
+  - [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis) — This project uses PySpark to analyse a large multi-year stock price dataset, computing normalised metrics like daily returns, volatility and sector behaviour to reveal insights about stability, risk, and portfolio diversification.
+- <b>Deep Learning | TensorFlow</b>
+  - [CRNN-Based OCR with CTC Loss and Logit Clustering](https://github.com/Susana-Ye/CRNN-OCR-with-CTC-and-Clustering) — End-to-end scene text recognition pipeline using a Convolutional Recurrent Neural Network (CNN + BiLSTM) trained with CTC loss, including decoding and clustering analysis of learned representations.
 <!--
   - <b>Machine Learning | Scikit-learn</b>
     - [Predictive Model for Customer Churn](link) - Description...
