@@ -19,7 +19,12 @@ I'm excited to continue exploring the academic and professional world — one co
   - [Multithreaded Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
 - <b>C++</b>
   - [N/A]
+ 
+<h2>📊 Data Analysis & Machine Learning Projects:</h2>
+- <b>PySpark | Big Data Analytics</b>
+  - [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis)
 
+Large-Scale Stock Analysis with PySpark 
 <h2>📄 Certifications</h2>
 
 - [Entrepreneurial Skills Pass](https://drive.google.com/file/d/1rLJYR43ndE62oZtjNGPFNJuOOVbUjbPR/view?usp=sharing)
