@@ -1,69 +1,157 @@
-<h1>
-Hi, I'm Susana! 
-<br/>
-<a href="https://github.com/Susana-Ye">Programmer</a>, 
-<a href="https://www.linkedin.com/in/susana-ye-zhan-655a28240">CS Student</a>
-</h1>
+# Hi, I'm Susana! 👋
 
-I'm a dual-degree student in Computer Engineering and Business Administration, passionate about learning through hands-on challenges.
-With a global mindset and creative curiosity, I enjoy working on diverse projects that combine technology, strategy, and creativity.
+**Computer Science & Business Administration Student | Software Engineering, AI & Data Analytics**
 
-I'm excited to continue exploring the academic and professional world — one commit at a time.
+I'm pursuing a Double Degree in Computer Science and Business Administration at Universidad Carlos III de Madrid, currently studying abroad at Rotterdam School of Management, Erasmus University, after completing an engineering exchange at HKUST in Hong Kong.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm passionate about building technology-driven solutions that connect **software engineering, artificial intelligence, data analytics, and business strategy**.
 
-- <b>Object-Oriented Game Development | Python</b>
-  - [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade) — Arcade-style platform game with multi-level progression, enemy behavior, collision detection, animations, and real-time interaction handling, designed using a modular object-oriented architecture.
-<!--
-- <b>C++</b>
-  - [N/A]
--->
+Through academic projects, international experiences, and collaborative challenges, I've developed a multidisciplinary approach to problem-solving, combining technical skills with business-oriented thinking.
 
-<h2>⚙️ Systems Programming:</h2>
+I enjoy turning ideas into practical solutions, exploring new technologies, and continuously challenging myself to learn and grow.
 
-- <b>Multithreading & Concurrency | C </b>
-  - [Production Line Simulator](https://github.com/Susana-Ye/FactoryManager) — Multithreaded production line simulator developed for Linux, modeling a factory with multiple producer–consumer pipelines coordinated through POSIX threads. The project focuses on synchronization, concurrency control, and inter-thread communication using mutexes, condition variables, semaphores, and shared circular buffers.
-- <b>Linux Systems Programming | C</b>
-  - [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter) – Shell script interpreter implemented in C, executing script files via POSIX system calls and supporting process management, piping, I/O redirection, and background execution. Includes a custom external command (mygrep) mimicking core grep functionality.
+---
 
- 
-<h2>📊 Data Analysis & Machine Learning Projects:</h2>
+## 💻 Featured Projects
 
-- <b>AI-Powered Data Processing & Price Analytics | Python, Gemini API, Pandas, OpenPyXL</b>
-  - [AI-Powered Price Comparison System](https://github.com/Susana-Ye/price-comparison) — AI-powered receipt processing and price comparison system that extracts structured purchase data, matches products against a standardized catalogue, and automatically tracks historical prices. Features automated data validation, human-in-the-loop review, unit price normalization, and a modular Python architecture for reliable price analytics.
-- <b>Big Data Analytics | PySpark</b>
-  - [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis) — This project uses PySpark to analyse a large multi-year stock price dataset, computing normalised metrics like daily returns, volatility and sector behaviour to reveal insights about stability, risk, and portfolio diversification.
-- <b>Deep Learning | TensorFlow</b>
-  - [CRNN-Based OCR with CTC Loss and Logit Clustering](https://github.com/Susana-Ye/CRNN-OCR-with-CTC-and-Clustering) — End-to-end scene text recognition pipeline using a Convolutional Recurrent Neural Network (CNN + BiLSTM) trained with CTC loss, including decoding and clustering analysis of learned representations.
-<!--
-  - <b>Machine Learning | Scikit-learn</b>
-    - [Predictive Model for Customer Churn](link) - Description...
-  - <b>Deep Learning | TensorFlow</b>
-    - [Image Classification with CNN](link) - Description...
--->
-<h2>📄 Certifications</h2>
+### 🤖 AI, Data Science & Machine Learning
+
+**AI-Powered Price Comparison System | Python, Gemini API, Pydantic, OpenPyXL**
+
+- [AI-Powered Price Comparison System](https://github.com/Susana-Ye/price-comparison) *(Personal Project — In Development)*
+
+  An AI-powered system that processes shopping receipts, extracts structured transaction data, and tracks product prices over time. Integrates Google's Gemini API with product matching, standardized catalogues, human-in-the-loop review, and automated Excel updates to support reliable price comparisons and spending analysis.
+
+**Big Data Analytics | PySpark**
+
+- [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis)
+
+  Large-scale analysis of multi-year stock market data using Apache Spark. Computes normalized financial metrics, including daily returns, volatility, and sector-level performance, to explore market behavior, investment risk, and portfolio diversification.
+
+**Deep Learning | TensorFlow**
+
+- [CRNN-Based OCR with CTC Loss and Logit Clustering](https://github.com/Susana-Ye/CRNN-OCR-with-CTC-and-Clustering)
+
+  End-to-end scene text recognition pipeline using a Convolutional Recurrent Neural Network (CNN + BiLSTM) trained with CTC loss. Includes text decoding and clustering analysis of learned feature representations.
+
+### ⚙️ Systems Programming & Software Development
+
+**Multithreading & Concurrency | C, POSIX Threads**
+
+- [Production Line Simulator](https://github.com/Susana-Ye/FactoryManager)
+
+  Multithreaded factory simulation for Linux, implementing producer–consumer pipelines with POSIX threads, mutexes, condition variables, semaphores, and shared circular buffers. Focuses on synchronization, concurrent execution, and inter-thread communication.
+
+**Linux Systems Programming | C**
+
+- [Linux Shell Script Interpreter](https://github.com/Susana-Ye/ShellScriptInterpreter)
+
+  Shell script interpreter developed in C using POSIX system calls. Supports process management, piping, I/O redirection, background execution, and a custom implementation of core `grep` functionality.
+
+**Object-Oriented Programming | Python**
+
+- [Mario Bros Arcade](https://github.com/Susana-Ye/MarioBrosArcade)
+
+  Arcade-style platform game developed using modular object-oriented design. Features multi-level progression, enemy behavior, collision detection, animations, and real-time game interactions.
+
+---
+
+## 🚀 Innovation & Business Projects
+
+**InditexTech | Women's Tech Summit Ambassador Programme**
+
+*October 2024 – April 2025*
+
+Selected for the InditexTech Women's Tech Summit Ambassador Programme, participating in technical training and mentoring sessions.
+
+- Contributed to the Inditex Tech Challenge by developing and integrating a machine-learning supplier recommendation interface into a procurement platform.
+- Helped reduce buyer search time by **20%**, demonstrating how AI can improve business operations and decision-making.
+
+**Aigem | Junior Achievement Startup Programme**
+
+*November 2024 – March 2025*
+
+Led a multidisciplinary team in designing Aigem, a gamified AI training platform concept aimed at helping employees adopt AI tools in their everyday workflows.
+
+- Developed the business plan, including market research, competitive analysis, pricing, customer segmentation, and financial forecasts.
+- Achieved **3rd place** in the second-round financial plan ranking among hundreds of participating teams across Spain.
+
+**NASA International Space Apps Challenge | Team Back2Space**
+
+*October 2024*
+
+- Co-developed *Challenge Earth*, an educational sustainability simulation using NASA open data.
+- Contributed to game mechanics and data modelling to illustrate trade-offs between economic development and environmental sustainability.
+
+[Explore the NASA Space Apps Project](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/back2space/?tab=project)
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:** Python, C, C++, Scala, VBA
+
+**AI & Data Science:** TensorFlow, scikit-learn, NumPy, Pandas, PySpark
+
+**Software Development & Tools:** Git, GitHub, Linux, POSIX Threads, Pydantic
+
+**Cloud & Platforms:** AWS, Google Colab
+
+**Business & Analytics:** Excel, Financial Modelling, Market Analysis, Business Strategy
+
+---
+
+## 🎓 Education
+
+**Universidad Carlos III de Madrid (UC3M)** 🇪🇸
+
+Double Degree in Computer Science and Business Administration
+
+*September 2023 – Expected February 2029*
+
+- GPA: **9.05/10**
+- Class Representative for two consecutive years
+- Relevant coursework: Operating Systems, Software Engineering
+
+**Rotterdam School of Management, Erasmus University** 🇳🇱
+
+Exchange Programme in International Business Administration
+
+*September 2026 – June 2027*
+
+- Relevant coursework: Human Resource Management, Marketing
+
+**The Hong Kong University of Science and Technology (HKUST)** 🇭🇰
+
+School of Engineering Exchange Programme
+
+*September 2025 – May 2026*
+
+- Relevant coursework: Cloud Computing & Big Data Systems, Machine Learning, Artificial Intelligence, IS Project Management
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 **Spanish:** Native
+- 🇬🇧 **English:** Fluent (C2)
+- 🇨🇳 **Chinese:** Fluent (HSK 6)
+- 🇫🇷 **French:** Intermediate (B2)
+
+---
+
+## 📄 Certifications
 
 - [Entrepreneurial Skills Pass](https://drive.google.com/file/d/1rLJYR43ndE62oZtjNGPFNJuOOVbUjbPR/view?usp=sharing)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="SusanaYe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SusanaYe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🤝 Connect with Me
 
-[instagram]: https://www.instagram.com/susanayyz
-[linkedin]: https://www.linkedin.com/in/susana-ye-zhan-655a28240
+I'm always interested in opportunities to learn, collaborate, and work on meaningful projects at the intersection of technology and business.
 
-<!--
-**Susana-Ye/Susana-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/susana-ye-zhan/) · [GitHub](https://github.com/Susana-Ye) · [Email](mailto:susanayezhan@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always curious, always learning — one commit at a time.*
