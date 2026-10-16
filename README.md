@@ -1,6 +1,6 @@
 # Hi, I'm Susana! 👋
 
-**Computer Science & Business Administration Student | Software Engineering, AI & Data Analytics**
+### **Computer Science & Business Administration Student | Software Engineering, AI & Data Analytics**
 
 I'm pursuing a Double Degree in Computer Science and Business Administration at Universidad Carlos III de Madrid, currently studying abroad at Rotterdam School of Management, Erasmus University, after completing an engineering exchange at HKUST in Hong Kong.
 
