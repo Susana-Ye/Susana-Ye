@@ -58,7 +58,7 @@ I enjoy turning ideas into practical solutions, exploring new technologies, and 
 
 ## 🚀 Innovation & Business Projects
 
-**InditexTech | Women's Tech Summit Ambassador Programme**
+### InditexTech | Women's Tech Summit Ambassador Programme
 
 *October 2024 – April 2025*
 
@@ -67,7 +67,7 @@ Selected for the InditexTech Women's Tech Summit Ambassador Programme, participa
 - Contributed to the Inditex Tech Challenge by developing and integrating a machine-learning supplier recommendation interface into a procurement platform.
 - Helped reduce buyer search time by **20%**, demonstrating how AI can improve business operations and decision-making.
 
-**Aigem | Junior Achievement Startup Programme**
+### **Aigem | Junior Achievement Startup Programme**
 
 *November 2024 – March 2025*
 
@@ -76,7 +76,7 @@ Led a multidisciplinary team in designing Aigem, a gamified AI training platform
 - Developed the business plan, including market research, competitive analysis, pricing, customer segmentation, and financial forecasts.
 - Achieved **3rd place** in the second-round financial plan ranking among hundreds of participating teams across Spain.
 
-**NASA International Space Apps Challenge | Team Back2Space**
+### **NASA International Space Apps Challenge | Team Back2Space**
 
 *October 2024*
 
@@ -103,7 +103,7 @@ Led a multidisciplinary team in designing Aigem, a gamified AI training platform
 
 ## 🎓 Education
 
-**Universidad Carlos III de Madrid (UC3M)** 🇪🇸
+### **Universidad Carlos III de Madrid (UC3M)** 🇪🇸
 
 Double Degree in Computer Science and Business Administration
 
@@ -113,7 +113,7 @@ Double Degree in Computer Science and Business Administration
 - Class Representative for two consecutive years
 - Relevant coursework: Operating Systems, Software Engineering
 
-**Rotterdam School of Management, Erasmus University** 🇳🇱
+### **Rotterdam School of Management, Erasmus University** 🇳🇱
 
 Exchange Programme in International Business Administration
 
@@ -121,7 +121,7 @@ Exchange Programme in International Business Administration
 
 - Relevant coursework: Human Resource Management, Marketing
 
-**The Hong Kong University of Science and Technology (HKUST)** 🇭🇰
+### **The Hong Kong University of Science and Technology (HKUST)** 🇭🇰
 
 School of Engineering Exchange Programme
 
