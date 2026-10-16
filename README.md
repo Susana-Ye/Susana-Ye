@@ -29,6 +29,8 @@ I'm excited to continue exploring the academic and professional world — one co
  
 <h2>📊 Data Analysis & Machine Learning Projects:</h2>
 
+- <b>AI-Powered Data Processing & Price Analytics | Python, Gemini API, Pandas, OpenPyXL</b>
+  - [AI-Powered Price Comparison System](https://github.com/Susana-Ye/price-comparison) — AI-powered receipt processing and price comparison system that extracts structured purchase data, matches products against a standardized catalogue, and automatically tracks historical prices. Features automated data validation, human-in-the-loop review, unit price normalization, and a modular Python architecture for reliable price analytics.
 - <b>Big Data Analytics | PySpark</b>
   - [Large-Scale Stock Analysis with PySpark](https://github.com/Mihusu/Spark_Dataset_analysis) — This project uses PySpark to analyse a large multi-year stock price dataset, computing normalised metrics like daily returns, volatility and sector behaviour to reveal insights about stability, risk, and portfolio diversification.
 - <b>Deep Learning | TensorFlow</b>
